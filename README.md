@@ -1,5 +1,5 @@
 # proyectoweb
-## Subtitulo 
+## Subtitulo
 ### Subtitulo
 ### Subtitulo
 #### Subtitulo
@@ -52,3 +52,6 @@ public void toString(){
 - [x] Opción 2
 - [ ] Opción 3
 - [ ] Opción 4
+
+
+Agregamos una linea al fichero README.md 
