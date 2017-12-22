@@ -54,4 +54,6 @@ public void toString(){
 - [ ] Opción 4
 
 
-Agregamos una linea al fichero README.md 
+Agregamos una linea al fichero README.md
+
+Agregamos segunda linea de prueba a README.md
